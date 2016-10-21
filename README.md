@@ -2,14 +2,14 @@
 # Shop3d
 
 ## Projet Shop3d
-
-Voici le travail qui m'a été demandé dans le cours IHM "Interface homme machine"
+Interfase commerciale realste (3D)
 
 ### Introduction
 
-Pour le cours de IHM, il nous a été demandé de créer un projet en utilisant la méthode scrum. Cela a impliqué la répartition des rôle dans scrum (ScrumMaster, équipe,...) et l'instauration les backlog du projet, backlog des sprints et les sprints. Le projet et un shop 3D permettant de ce déplacer dans une map (magasin) pour sélectionner les produis que l'on veux acheter.
+Projet en utilisant la méthode scrum. Cela a impliqué la répartition des rôle dans scrum (ScrumMaster, équipe,...) et l'instauration les backlog du projet, backlog des sprints et les sprints. 
+Le projet et un shop 3D permettant de ce déplacer dans une map (magasin) pour sélectionner les produis que l'on veux acheter.
 
-### Objectifs
+### Objectifs du projet
 
   - utilisation de three.js pour la partie 3d
   - creation de la base de données SQL
@@ -18,3 +18,14 @@ Pour le cours de IHM, il nous a été demandé de créer un projet en utilisant 
   
 ### Démo
   http://129.194.187.137/shop3D/
+  
+  
+  
+### Prérequis
+
+  - Un serveur Apache avec PHP est nécéssaire.
+  - Un serveur MySQL est également requis.
+
+### Configuration
+
+ Il vous suffi de modiffier le fichier "connexionbd.php" pour indiquer les informations de connection à la base de données
