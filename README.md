@@ -6,7 +6,7 @@ Interfase commerciale realste (3D)
 
 ### Introduction
 
-Projet en utilisant la méthode scrum. Cela a impliqué la répartition des rôle dans scrum (ScrumMaster, équipe,...) et l'instauration les backlog du projet, backlog des sprints et les sprints. 
+Projet utilisant la méthode scrum. Cela a impliqué la répartition des rôle dans scrum (ScrumMaster, équipe,...) et l'instauration les backlog du projet, backlog des sprints et les sprints. 
 Le projet et un shop 3D permettant de ce déplacer dans une map (magasin) pour sélectionner les produis que l'on veux acheter.
 
 ### Objectifs du projet
