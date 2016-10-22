@@ -2,7 +2,7 @@
 # Shop3d
 
 ## Projet Shop3d
-Interfase commerciale realiste (3D)
+Interface commerciale réaliste (3D)
 
 ### Introduction
 
