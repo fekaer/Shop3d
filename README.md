@@ -7,7 +7,7 @@ Interface commerciale réaliste (3D)
 ### Introduction
 
 Projet utilisant la méthode scrum. Cela a impliqué la répartition des rôle dans scrum (ScrumMaster, équipe,...) et l'instauration les backlog du projet, backlog des sprints et les sprints. 
-Le projet et un shop 3D permettant de ce déplacer dans une map (magasin) pour sélectionner les produis que l'on veux acheter.
+Le projet et un shop 3D permettant de ce déplacer dans une map (magasin) pour sélectionner les produis que l'on veut acheter.
 
 ### Objectifs du projet
 
